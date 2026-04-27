@@ -82,3 +82,8 @@ Generated watchfaces will be exported to `/output/` directory.
 - **UI Framework**: PySide6 (Qt 6)
 - **Graphics Engine**: Skia-python
 - **Math/Calculations**: Numpy
+
+## How to Cite
+If you use Radian for your commercial projects or derivative works, please provide attribution by linking back to this repository or citing it as:
+
+“Designed with Radian - [Koi]”.

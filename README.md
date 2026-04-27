@@ -30,6 +30,7 @@ Radian/
 - Layered elements – Add several elements (Marks, Rings, Typography) that stack in order.
 - Element list – View and manage all elements; select one to edit its parameters.
 - Delete selected – Remove the currently selected element from the composition.
+
 **2. Per-element controls**
 - Marks: number of marks, length, width, size (radius), mark type (Line / Circle), color.
 - Rings: size (radius), ring thickness (length), color.
@@ -43,6 +44,7 @@ Radian/
 Export
 - Transparent background – Option to export with or without transparency.
 - Outputs folder – Files saved under an outputs/ directory with descriptive filenames based on date.
+
 **3. UI & Preview**
 - Simple interface – Real-time preview and controls (sliders, inputs, color picker).
 - Live preview – Updates as parameters or selections change.
@@ -52,7 +54,7 @@ Export
 
 ## Requirements
 - Python 3.10+
-- Dependencies listed in `radian/requirements.txt`
+- Dependencies listed in `requirements.txt`
 
 ## Installation
 1. Clone this repository
@@ -67,7 +69,7 @@ Export
    ```
 4. Install dependencies:
    ```bash
-   pip install -r project/requirements.txt
+   pip install -r requirements.txt
    ```
 
 ## Running the Application

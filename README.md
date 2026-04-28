@@ -85,6 +85,10 @@ Generated watchfaces will be exported to `/output/` directory.
 - **Graphics Engine**: Skia-python
 - **Math/Calculations**: Numpy
 
+## How to use this tool
+
+Please visit: https://koiwatchfaces.com
+
 ## How to Cite
 If you use Radian for your commercial projects or derivative works, please provide attribution by linking back to this repository or citing it as:
 
